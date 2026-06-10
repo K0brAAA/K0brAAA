@@ -6,28 +6,36 @@ I am a Computer Science student and a backend developer focused on building robu
 
 ### Tech Stack & Tools
 
-**Languages & Core:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Architecture:**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Infrastructure & Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <strong>Languages & Core</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java"/><br/>
+      <img src="https://img.shields.io/badge/SQL-00758F?style=plastic&logo=mysql&logoColor=white" alt="SQL"/>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <strong>Frameworks & Architecture</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" alt="Spring"/><br/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <strong>Infrastructure & DBs</strong><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Currently Learning & Exploring
-* Advanced Software Architecture (Domain-Driven Design, Hexagonal Architecture)
-* Distributed systems and asynchronous communication
-* Improving system design with precise data handling and clean abstractions
+### Focus & Interests
+
+Currently deepening my knowledge in advanced software architecture, focusing on Domain-Driven Design and Hexagonal Architecture. I am also exploring distributed systems, asynchronous communication, and practical system design with a strong emphasis on clean abstractions and precise data handling.
 
 ---
 
 ### Connect with me
-* **Location:** Łódź, Poland
-* **LinkedIn:** [Illia Mykoliuk](https://www.linkedin.com/in/illia-m-722226332/)
+
+**Location:** Łódź, Poland  
+**LinkedIn:** [Illia Mykoliuk](https://www.linkedin.com/in/illia-m-722226332/)
