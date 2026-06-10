@@ -7,24 +7,33 @@ I am a Computer Science student and a backend developer focused on building robu
 ### Tech Stack & Tools
 
 <table>
-  <tr>
-    <td align="left" valign="top" width="33%">
-      <strong>Languages & Core</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java"/><br/>
-      <img src="https://img.shields.io/badge/SQL-00758F?style=plastic&logo=mysql&logoColor=white" alt="SQL"/>
-    </td>
-    <td align="left" valign="top" width="33%">
-      <strong>Frameworks & Architecture</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" alt="Spring"/><br/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-    </td>
-    <td align="left" valign="top" width="33%">
-      <strong>Infrastructure & DBs</strong><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white" alt="Docker"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center" width="33%">Languages & Core</th>
+      <th align="center" width="33%">Frameworks & Architecture</th>
+      <th align="center" width="33%">Infrastructure & DBs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Java-E040FB?style=flat-square&logo=openjdk&logoColor=white&logoWidth=40&color=f09c2e" alt="Java"/><br><br>
+        <img src="https://img.shields.io/badge/SQL-3377dd?style=flat-square&logo=mysql&logoColor=white&logoWidth=40" alt="SQL"/>
+      </td>
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Spring-4caf50?style=flat-square&logo=spring&logoColor=white&logoWidth=40" alt="Spring"/><br><br>
+        <img src="https://img.shields.io/badge/RabbitMQ-f50?style=flat-square&logo=rabbitmq&logoColor=white&logoWidth=40" alt="RabbitMQ"/>
+      </td>
+      <td align="center">
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&logoWidth=40" alt="PostgreSQL"/><br><br>
+        <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white&logoWidth=40" alt="Docker"/><br><br>
+        <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white&logoWidth=40" alt="Git"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
